@@ -8,7 +8,7 @@
     <key>CFBundleIconFile</key>
     <string></string>
     <key>CFBundleIdentifier</key>
-    <string>com.BilusGarage.OpenWaveEQ</string>
+    <string>com.yourcompany.OpenWaveEQ</string>
     <key>CFBundleName</key>
     <string>OpenWaveEQ</string>
     <key>CFBundleDisplayName</key>

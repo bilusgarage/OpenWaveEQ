@@ -8,7 +8,7 @@
     <key>CFBundleIconFile</key>
     <string></string>
     <key>CFBundleIdentifier</key>
-    <string>com.BilusGarage.OpenWaveEQ</string>
+    <string>com.yourcompany.OpenWaveEQ</string>
     <key>CFBundleName</key>
     <string>OpenWaveEQ</string>
     <key>CFBundleDisplayName</key>
@@ -29,7 +29,7 @@
     <array>
       <dict>
         <key>name</key>
-        <string>Bilu's Garage: OpenWaveEQ</string>
+        <string>yourcompany: OpenWaveEQ</string>
         <key>description</key>
         <string>OpenWaveEQ</string>
         <key>factoryFunction</key>
@@ -37,9 +37,9 @@
         <key>manufacturer</key>
         <string>Manu</string>
         <key>type</key>
-        <string>aumi</string>
+        <string>aufx</string>
         <key>subtype</key>
-        <string>Hhq3</string>
+        <string>Vyam</string>
         <key>version</key>
         <integer>65536</integer>
         <key>resourceUsage</key>
